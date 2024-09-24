@@ -59,7 +59,9 @@ const Home = () => {
           })}
       </div>
       <div className="morePicture">
-        <button onClick={morePicture}>更多圖片</button>
+        <button onClick={morePicture} class="btn btn-outline-success">
+          更多圖片
+        </button>
       </div>
     </div>
   );

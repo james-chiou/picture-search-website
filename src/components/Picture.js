@@ -7,12 +7,14 @@ const Picture = ({ data }) => {
       <div className="imageContainer">
         <img src={data.src.large} alt="" />
       </div>
-      <p>
-        在此下載圖片:
-        <a target="_blank" href={data.src.large}>
-          按一下
-        </a>
-      </p>
+
+      <a
+        target="_blank"
+        href={data.src.large}
+        class="btn btn-success btn-md m-1"
+      >
+        下載
+      </a>
     </div>
   );
 };

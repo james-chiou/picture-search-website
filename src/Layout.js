@@ -6,7 +6,7 @@ const Layout = () => {
   return (
     <div>
       <nav>
-        <ul>
+        <ul className="m-0">
           <li>
             <Link to="/">首頁</Link>
           </li>
