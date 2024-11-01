@@ -11,7 +11,7 @@ const Picture = ({ data }) => {
       <a
         target="_blank"
         href={data.src.large}
-        class="btn btn-success btn-md m-1"
+        className="btn btn-success btn-md m-1"
       >
         下載
       </a>
