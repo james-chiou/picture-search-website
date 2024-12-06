@@ -5,7 +5,7 @@ const About = () => {
     <main>
       <div className="ps-3 bg-light rounded-3">
         <div className="container-fluid py-3">
-          <h1 className="display-6 fw-bold">Project 8 - 圖片搜尋網站</h1>
+          <h1 className="display-6 fw-bold">圖片搜尋網站</h1>
           <ul className="list-unstyled">
             <li className="col-md-10 fs-5">
               <ol>
