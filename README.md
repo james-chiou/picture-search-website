@@ -1,5 +1,5 @@
 # 照片搜尋網站
-1. 本專案框架為React.js
+1. 本專案框架為React.js，提供使用者搜尋和下載照片
 2. React Component包含
    1. 搜尋 (search.js)
    2. 圖片顯示 (picture.js)
