@@ -1,5 +1,5 @@
 # 照片搜尋網站
-1. 本專案框架為React.js
+1. 本專案框架為React.js，前往[照片搜尋網站](https://picture-search-website-1.onrender.com)
 2. 使用AJAX串接第三方網站API (串接的網站為[Pexel](https://www.pexels.com/zh-tw/))
 3. 使用Boostrap美化網頁
 ## 目標
